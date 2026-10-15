@@ -56,4 +56,4 @@ Email [support@polidict.com](mailto:support@polidict.com) or see the [setup guid
 
 ## License
 
-[MIT](LICENSE)
+[PolyForm Noncommercial 1.0.0](LICENSE): you may use, modify and share this plugin for noncommercial purposes. Anyone may install and use the unmodified plugin with their Polidict account, including at work. Other commercial use needs permission from [support@polidict.com](mailto:support@polidict.com).
