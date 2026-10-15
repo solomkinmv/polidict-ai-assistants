@@ -1,0 +1,25 @@
+{
+  "name": "polidict",
+  "displayName": "Polidict",
+  "version": "0.2.0",
+  "description": "Build, organize and practice your Polidict vocabulary: save words with meanings and examples, manage word groups, and run spaced-repetition practice.",
+  "author": {
+    "name": "Polidict",
+    "email": "support@polidict.com",
+    "url": "https://polidict.com"
+  },
+  "homepage": "https://polidict.com/en/ai/mcp",
+  "license": "MIT",
+  "keywords": [
+    "vocabulary",
+    "language learning",
+    "flashcards",
+    "spaced repetition"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://polidict.com/en/ai/mcp",
+  "supportUrl": "https://polidict.com/en#contact",
+  "privacyPolicyUrl": "https://polidict.com/privacy-policy",
+  "termsOfServiceUrl": "https://polidict.com/terms-of-service",
+  "repository": "https://github.com/solomkinmv/polidict-ai-assistants"
+}

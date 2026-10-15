@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "polidict": {
+      "type": "http",
+      "url": "https://api.polidict.com/mcp"
+    }
+  }
+}

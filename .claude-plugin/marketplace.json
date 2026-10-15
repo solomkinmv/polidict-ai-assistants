@@ -1,0 +1,17 @@
+{
+  "name": "polidict-ai-assistants",
+  "owner": {
+    "name": "Polidict",
+    "email": "support@polidict.com"
+  },
+  "plugins": [
+    {
+      "name": "polidict",
+      "source": "./",
+      "description": "Build, organize and practice your Polidict vocabulary with AI assistants."
+    }
+  ],
+  "metadata": {
+    "description": "Polidict vocabulary plugin for AI assistants: MCP server plus skills."
+  }
+}
